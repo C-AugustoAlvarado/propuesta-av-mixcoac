@@ -1,0 +1,6 @@
+/* Tipografías autoalojadas (subconjunto latino, de Google Fonts, licencia SIL OFL). */
+@font-face { font-family: 'Cormorant Garamond'; font-style: italic; font-weight: 400 500; font-display: swap; src: url('../assets/fuentes/cormorant-garamond-400i.woff2') format('woff2'); }
+@font-face { font-family: 'Cormorant Garamond'; font-style: normal; font-weight: 400 600; font-display: swap; src: url('../assets/fuentes/cormorant-garamond-400.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400 600; font-display: swap; src: url('../assets/fuentes/inter-400.woff2') format('woff2'); }
+@font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 400 500; font-display: swap; src: url('../assets/fuentes/jetbrains-mono-400.woff2') format('woff2'); }
+@font-face { font-family: 'Poppins'; font-style: normal; font-weight: 600; font-display: swap; src: url('../assets/fuentes/poppins-600.woff2') format('woff2'); }
